@@ -4,9 +4,9 @@
     var AUTO_RETRY = false;
 
     // Search constants.
-    var SEARCH_DEPTH = 20;
-    var SEARCH_TIME = 500;
-    var RETRY_TIME = 10000;
+    var SEARCH_DEPTH = 10;
+    var SEARCH_TIME = 50;
+    var RETRY_TIME = 1000;
     var ACCEPT_DEFEAT_VALUE = -999999;
 
     // Evaluation constants.
